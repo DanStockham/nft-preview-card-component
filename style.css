@@ -28,6 +28,7 @@ html {
 .wrapper {
     width: 100%;
     height: 100%;
+    background: var(--neutral-main-bkg);
 }
 
 .page-container { 
@@ -36,7 +37,6 @@ html {
     align-items: center;
     width: 100%;
     height: 100vh;
-    background: var(--neutral-main-bkg);
 }
 
 .card-container {
